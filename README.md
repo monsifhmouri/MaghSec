@@ -13,8 +13,6 @@ The platform connects organizations with skilled security researchers to help id
 # Focus Area
 - Morocco
 - North Africa / Maghreb region
-- [![Live Website](https://img.shields.io/badge/Live%20Site-View-success?style=flat-square&logo=githubpages)](https://monsifhmouri.github.io/MaghSec/)
-
 
 # What MaghSec Provides
 Responsible Vulnerability Disclosure framework
