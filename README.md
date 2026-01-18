@@ -1,5 +1,4 @@
 [![Live Website](https://img.shields.io/badge/Live%20Site-View-success?style=flat-square&logo=githubpages)](https://monsifhmouri.github.io/MaghSec/)
-
 # MaghSec – Maghreb Security Platform
 ![MaghSec](PCT.png)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram)](http://t.me/monstr_m1nd)
